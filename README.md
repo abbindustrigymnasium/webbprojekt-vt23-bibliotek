@@ -22,12 +22,15 @@ To work with the submit.php file, ensure that you have PHP installed on your ser
 - src/submit.php: The PHP file that receives and processes the form data.
 - images/background2.jpg: An image file used as the background image.
 - images/books.jpg: An image file representing a book.
+- biblioteksprojekt.ino: Code for the RFID reader. 
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Common Bugs
-No known bugs at this time. Please report any issues or bugs you encounter to the project maintainers.
+Keyboard layout has to be in Swedish for the RFID scanner to work.
+
+Please report any issues or bugs you encounter to the project maintainers.
 
 ## Credits
 Special thanks to Mattias Ohlsson, Simon Eriksson, and Maximilian Helmersson who have made these resources available.
